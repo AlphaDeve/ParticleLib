@@ -1,0 +1,7 @@
+name: ParticleLibTest
+version: 1.0.0
+author: IModZombies4Fun
+main: me.imodzombies4fun.particle.lib.test.ParticlePlugin
+depend: [ParticleLib]
+commands:
+  particletest: {}
