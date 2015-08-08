@@ -1128,6 +1128,11 @@ public class ParticleEngine {
                   if (players.isEmpty()) {
                         throw new IllegalArgumentException("The player list is empty");
                   }
+
+                  if (players == null || players.size() == 0) {
+                        return;
+                  }
+
                   for (Player player : players) {
                         sendTo(center, player);
                   }
