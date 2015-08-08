@@ -9,12 +9,6 @@ import java.lang.reflect.Method;
 import java.util.HashMap;
 import java.util.Map;
 
-/*
- * *****************************************************************
- * Copyright (c) Harry Devane 2015. All Rights Reserved
- * *****************************************************************
- */
-
 /**
  * <b>ReflectionUtils</b>
  * <p/>

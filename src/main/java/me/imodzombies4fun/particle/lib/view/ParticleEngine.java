@@ -1,6 +1,5 @@
 package me.imodzombies4fun.particle.lib.view;
 
-import me.imodzombies4fun.particle.lib.api.Particle;
 import org.bukkit.Bukkit;
 import org.bukkit.Location;
 import org.bukkit.Material;
@@ -15,12 +14,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
-
-/*
- * *****************************************************************
- * Copyright (c) Harry Devane 2015. All Rights Reserved
- * *****************************************************************
- */
 
 /**
  * <b>ParticleEffect Library</b>
